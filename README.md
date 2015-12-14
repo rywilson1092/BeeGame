@@ -48,3 +48,15 @@ You are free to implement your solution however you feel most appropriate and wi
 of your solution. We recommend producing a simple, extensible solution and do not require you to complete all the
 tasks within the allotted time. However, please comment on any assumptions made or design decisions you would have
 made if you would have done something differently given more time.
+
+# Submitting your solution
+
+Please don't fork the repo, as your solution will be public.
+
+Either:
+
+a) Zip up your solution, omitting the vendor folder
+b) After committing your changes, you can create a git bundle from your local repo with:
+    git bundle create solution.bundle master
+
+Submit your solution via email
