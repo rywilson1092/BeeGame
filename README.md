@@ -54,9 +54,10 @@ made if you would have done something differently given more time.
 Please don't fork the repo, as your solution will be public.
 
 Either:
-
-a) Zip up your solution, omitting the vendor folder
-b) After committing your changes, you can create a git bundle from your local repo with:
-    git bundle create solution.bundle master
+* Zip up your solution, omitting the vendor folder
+* After committing your changes, create a git bundle from your local repo with:
+```
+git bundle create solution.bundle master
+```
 
 Submit your solution via email
